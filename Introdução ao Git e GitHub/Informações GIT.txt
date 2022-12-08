@@ -1,0 +1,19 @@
+# O QUE É GIT?
+- O Git é um sistema de controle de versão de arquivos. 
+- É um software livre e muito utilizado no desenvolvimento de software
+- Diversas pessoas estão contribuindo simultaneamente, podendo criar e editar arquivos
+
+# COMANDOS BÁSICOS
+- mkdir (criar pasta)
+- cd (direciona para uma pasta)
+- ctrl + l (limpa tela do terminal)
+- ls (lista arquivos dentro de uma pasta)
+
+# OBJETOS BÁSICOS DO GIT
+- Blobs
+- Trees
+- Commits
+
+# O QUE É CHAVE SSH?
+- É uma forma de estabelecer uma conexão segura entre o servidor e a máquinha local
+- Chave pública e chave privada

@@ -1,0 +1,12 @@
+# O QUE É GITHUB?
+- GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git
+- Permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo
+- Uma forma de hospedar projetos online
+
+# VANTAGENS DO GITHUB
+- Possibilidade de acompanhar e colaborar com projetos de diferentes equipes
+- Aprender programação na prática ao observar o avanço do desenvolvimento de aplicações de terceiros;
+- Participar de discussões a respeito de novas tecnologias;
+- Obter auxílio de outros programadores para resolver problemas relacionados a seus projetos;
+- Controlar as diferentes versões de um código com armazenamento em nuvem;
+- Registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online, etc.
